@@ -208,7 +208,6 @@
 				<div class="userInfo"><p class="info-title">회원상태</p>
 				
 					<select class="select-one" data-width="fit" name ="userMemberShip">
-						<option value=5>가입대기</option>
 						<option value=4>신입회원</option>
 						<option value=0>준회원</option>
 						<option value=1>정회원</option>

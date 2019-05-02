@@ -1,0 +1,66 @@
+@charset "EUC-KR";
+
+.container{
+	min-width:1000px;
+	margin-botton:50px;
+}
+
+.userInfo-title{
+	width:100%;
+	height:60px;
+	margin-bottom:10px;
+	padding-left:20px;
+	border-bottom:2px solid black;
+	
+}
+
+.userInfo{
+	width:90%;
+	margin:5px 15px;
+	height:60px;
+	padding-left:20px;
+	padding-bottom:5px;
+	border-bottom:1px solid #c0c0c0;
+
+}
+
+
+
+.title{
+	margin:8px 5px;
+	color:#808080;
+	font-size:20px;
+	font-weight:1000;
+	float:left;
+	font-family: 'Do Hyeon', sans-serif;
+	font-size:28px;
+	
+}
+
+.info-title{
+	width:100px;
+	display:inline-block;
+	margin:15px 20px;
+	float:left;
+	font-weight:700;
+	font-family: 'Jua', sans-serif;
+	font-size:16px;
+	
+}
+
+.info{
+	font-family: 'Sunflower', sans-serif;
+	font-size:15px;
+	text-align:center;
+	margin:15px;
+	float:left;
+	font-weight:700;
+	width:600px;
+	height:auto;
+	display:inline-block;	
+}
+
+
+.attend{
+	width:200px;
+}

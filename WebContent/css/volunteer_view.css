@@ -1,0 +1,121 @@
+ @charset "EUC-KR";
+
+.container{
+	max-width:1300px;
+}
+
+.box{
+	max-width:1100px;
+	border:1px solid black;
+}
+.btn-gray{
+	background-color:"#808080"
+}
+
+.userProfilePhoto{
+	width:50px;
+	height:50px;
+	
+}
+
+.title{
+	font-family: 'Do Hyeon', sans-serif;
+	font-size:20px;
+}
+.volunteer-title{
+	font-family: 'Jua', sans-serif;
+	font-size:16px;
+}
+.volunteer-date{
+	font-family: 'Jua', sans-serif;
+	font-size:16px;
+}
+.volunteer-place{
+		font-family: 'Jua', sans-serif;
+	font-size:16px;
+}
+.volunteer-write-date{
+		font-family: 'Jua', sans-serif;
+	font-size:16px;
+}
+.volunteer-content{
+		font-family: 'Jua', sans-serif;
+	font-size:16px;
+}
+.volunteer-food{
+		font-family: 'Jua', sans-serif;
+	font-size:16px;
+}
+.volunteer-title{
+	font-family: 'Jua', sans-serif;
+	font-size:16px;
+}
+
+.volunteer-title-1{
+	font-size:15px;
+}
+.volunteer-date-1{
+	font-size:15px;
+}
+.volunteer-place-1{
+	font-size:15px;
+}
+.volunteer-write-date-1{
+	font-size:15px;
+}
+.volunteer-content-1{
+	font-size:15px;
+}
+.volunteer-food-1{
+	font-size:15px;
+}
+.volunteer-oneSay-1{
+	font-size:10px;
+}
+
+.volunteer-userProfilePhoto{
+	font-family: 'Jua', sans-serif;
+	font-size:16px;
+}
+.volunteer-userName{
+	font-family: 'Jua', sans-serif;
+	font-size:16px;
+}
+.volunteer-userMemberShip{
+		font-family: 'Jua', sans-serif;
+	font-size:16px;
+}
+.volunteer-foodWhether{
+		font-family: 'Jua', sans-serif;
+	font-size:16px;
+}
+.volunteer-userCafool{
+		font-family: 'Jua', sans-serif;
+	font-size:16px;
+}
+.volunteer-attend{
+		font-family: 'Jua', sans-serif;
+	font-size:16px;
+}
+.volunteer-cancel{
+		font-family: 'Jua', sans-serif;
+	font-size:16px;
+}
+
+.volunteer-userName-1{
+	font-size:15px;
+}
+.volunteer-userMemberShip-1{
+	font-size:15px;
+}
+.volunteer-foodWhether-1{
+	font-size:15px;
+}
+.volunteer-userCafool-1{
+	font-size:15px;
+}
+.volunteer-attend-1{
+	font-size:15px;
+}
+
+

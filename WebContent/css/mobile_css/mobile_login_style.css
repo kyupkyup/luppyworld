@@ -1,0 +1,29 @@
+@charset "EUC-KR";
+
+.jumbotron{
+	width:90%;
+	margin:10px auto;
+	text-align:center;
+	display:inline-block;
+}
+
+.userID{
+	width:200px;
+	display:block;
+	margin:10px auto;
+}
+.userPassword{
+	width:200px;
+	display:block;
+	margin:10px auto;
+	
+}
+
+.btn-primary{
+	width:200px;
+	margin:0 auto;
+	
+}
+.join{
+	margin-top:5px;
+}

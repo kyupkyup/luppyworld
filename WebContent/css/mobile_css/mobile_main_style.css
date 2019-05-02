@@ -1,0 +1,36 @@
+@charset "EUC-KR";
+
+.container-main{
+		background-color:#dbE8DA;
+	
+}
+
+.button-container{
+	width:100%;
+	height:auto;
+}
+.landing-image{
+	width:100%;
+	height:160px;
+}
+.notice-button{
+	display:inline-block;
+	background-color:#dbE8DA;
+		
+	
+}
+.introduce-button{
+	display:inline-block;
+
+}
+.volunteer-button{
+	display:inline-block;
+	background-color:#dbE8DA;
+}
+
+
+
+.login-button{
+	display:inline-block;
+
+}

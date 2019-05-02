@@ -1,0 +1,16 @@
+@charset "EUC-KR";
+
+.userProfilePhoto-1{
+
+	width:60px;
+	height:60px;
+
+	}
+.vertical{
+	vertical-align:middle;
+}
+
+.title{
+	font-weight:bold;
+	font-size:18pt;
+}

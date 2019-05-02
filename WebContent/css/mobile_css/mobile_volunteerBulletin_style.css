@@ -1,0 +1,32 @@
+@charset "EUC-KR";
+
+/* 테이블 디자인 */
+.row{
+	width:100%;
+	margin:0 auto;
+}
+
+
+.list{
+	width:100%;
+}
+
+.title-line{
+	text-align:center;
+	font-color:black;
+	font-size:12px;
+	
+}
+
+.date-line{
+	text-align:center;
+	text-color:black;
+}
+.place-line{
+	text-align:center;
+	text-color:black;
+}
+.dead-line{
+	text-align:center;
+	text-color:black;
+}

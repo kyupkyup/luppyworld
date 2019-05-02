@@ -1,0 +1,24 @@
+@charset "EUC-KR";
+
+.container-login{
+	margin-top:20px;
+	width:600px;
+    display: inline-block;
+}
+
+.userID{
+	width:400px;
+	display:block;
+	margin:10px auto;
+}
+.userPassword{
+	width:400px;
+	display:block;
+	margin:10px auto;
+	
+}
+
+.btn-primary{
+	width:400px;
+	margin-top:10px;
+}

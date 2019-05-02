@@ -1,0 +1,62 @@
+@charset "EUC-KR";
+
+.row{
+	width:100%;
+	margin:0 auto;
+}
+
+.view{
+	width:100%;
+	padding:5px;
+}
+
+.bulletin-view-title{
+	width:100%;
+}
+.bulletin-view-user{
+	width:50%;
+	
+}
+.bulletin-view-date{
+	width:50%;
+
+}
+.bulletin-view-content{
+	width:100%;
+	height:auto;
+	
+}
+.bulletin-view-image{
+	width:100%;
+	height:auto;
+	
+}
+.reply-cover{
+	width:90%;
+	margin-bottom:5px;
+	margin:0 auto;
+}
+.reply-content{
+	margin-bottom:5px;	
+}
+.reply-button{
+	float:right;
+	margin-bottom:5px;	
+	
+}
+.replied-cover{
+	width:100%;
+	height:auto;
+}
+.replied-name{
+	
+}
+.replied-date{
+	
+}
+.replied-content{
+	padding-bottom:5px;
+	padding-left:5px;
+	height:auto;
+}
+

@@ -1,0 +1,306 @@
+@charset "EUC-KR";
+
+@media only screen and (max-width: 501px){
+	.container-all{
+    width:0px;
+    height:0px;
+
+}
+
+.image{
+	width:500px;
+	height:500px;
+	background-image:url("images/no_mobile.png");
+	background-size:500px 500px;
+}
+
+	}
+	
+.container-all{
+    width:100%;
+    text-align:center;
+}
+.navbar{
+    width:100%;
+    max-width:1600px;
+    display: inline-block;
+    background-image:url("images/bar.png");
+    background-size:auto 208px;
+}
+.navbar-brand{
+	width:312px;
+	heigth:160px;
+	background-image:url("images/logo.png");
+	background-size:222px 50px;
+	margin:10px 15px 15px 15px;
+    
+    background-repeat:no-repeat;
+    
+
+}
+
+.notice-button{
+	width:93px;
+	height:44px;
+	background-image:url("images/notice_button.png");
+	background-size:70px 33px;
+	background-repeat:no-repeat;
+	margin-top:23px;
+	margin-right:10px;
+	
+}
+
+.introduction-button{
+	width:93px;
+	height:44px;
+	background-image:url("images/introduction_button.png");
+	background-size:70px 33px;
+	background-repeat:no-repeat;
+	margin-top:23px;
+	margin-right:10px;
+	
+	
+}
+
+.volunteer-button{
+	width:112px;
+	height:30px;
+	background-image:url("images/volunteer_button.png");
+	background-size:112px 30px;
+	background-repeat:no-repeat;
+	margin-top:23px;
+	margin-right:15px;
+	
+}
+
+.login-button{
+	width:112px;
+	height:30px;	
+	background-image:url("images/login_button.png");
+	background-size:112px 30px;
+	background-repeat:no-repeat;
+	margin-top:23px;
+	margin-right:15px;
+	
+}
+.userInfo-button{
+	width:112px;
+	height:30px;	
+	background-image:url("images/userInfo_button.png");
+	background-size:112px 30px;
+	background-repeat:no-repeat;
+	margin-top:23px;
+	margin-right:15px;
+	
+}
+
+
+.container-main{
+	margin-top:0px;
+    display: inline-block;
+    text-align: center;
+	width: 100%;
+    height: 100%;
+    max-width:1600px;
+	background-color: white;
+	
+}
+
+
+/*.container-banner{
+   
+   	width:100%;
+    max-width:1600px;
+    height:800px; 
+    display: inline-block;
+    
+}
+
+.banner{
+
+	width:100%;
+	height:100%;'
+	max-width:1600px;
+	max-height:800px;
+	background-image: url("images/main_banner_1000.500px-02.png");
+	background-size:100% auto;
+ 	cursor:pointer;
+    display: inline-block;
+	margin:0 auto;
+    background-repeat:no-repeat;
+    
+}*/
+
+/* .banner-2{
+    height: 250px;
+    width: 230px;
+    cursor: pointer;
+    display: inline-block;
+    border: 2px solid black;
+    margin: auto;
+    float:right;
+    
+} */
+
+
+@media only screen and (max-width: 1200px){
+    .banner{
+    height:500px;
+	width:100%;
+	background-image: url("images/main_banner_1000.500px-02.png");
+	background-size:100% 400px;
+ 	cursor:pointer;
+    display: inline-block;
+    float: left;
+    }
+    
+    .banner-2{
+        display: none; 
+    
+    }
+}
+
+.boxes-container{
+	max-width:1600px;
+    width: 100%;
+    height: auto;
+    display: inline-block;
+     
+} 
+.boxes{
+	display:inline-block;
+	cursor:pointer;
+}
+
+
+/* .boxes{
+	width: 33%;    
+    height: auto;
+    max-width:533px;
+    max-height:480px;
+    display: inline-block;
+    float: left;
+    background-repeat:no-repeat;
+    cursor:pointer;
+    margin:0 2px;
+
+} 
+#boxes_item1{
+	src: url("images/box1.png");
+}
+#boxes_item2{
+	src: url("images/box1.png");
+
+}
+#boxes_item3{
+	src: url("images/box1.png");
+
+}
+ */
+.boxes-explain-container{ 
+	max-width:1600px;
+    width: 100%;
+    height:auto;
+    display: inline-block;
+    
+} 
+
+.boxes-explain{  
+	left:0;
+   display:inline-block;
+    background-color:white;
+    
+}  
+
+
+
+.button-container{
+	width:100%;
+    max-width:1600px;
+    height:351px; 
+    display: inline-block;
+}
+
+
+.button-1{
+	width:100%;
+	height:100%;
+  max-width:1600px;
+  max-height:351px;
+  background-image:url("images/volunteer_1000.220px-05.png");
+  background-size:100% auto;
+  display:inline-block;
+  cursor:pointer;
+  margin:0 auto;
+  background-repeat:no-repeat;
+/*   position:relative;
+  box-sizing:border-box;
+  overflow:hidden;
+  margin:20px auto;  */
+}
+
+
+.footer{
+    width: 100%;
+    height: 300px;
+    text-align: center;
+    margin: 40px 0 auto;
+    background-color:#00A485;
+    position:relative;
+} 
+.information-footer{
+	width:371px;
+	height:261px;
+ 	background-image:url("images/footer_info.png");
+  	background-size:100% 100%;
+	position:absolute;
+	top: 15px;
+	left:150px;
+	display:inline-block;
+}
+.SNS{
+	width:291px;
+	height:250px;
+	position:absolute;
+	top: 35px;
+	right:100px;
+	display:inline-block;
+
+}
+.instagram{
+	width:281px;
+	height:41px;
+ 	background-image:url("images/instagram.png");
+  	background-size:100% 100%;	
+  	margin:10px 5px;
+  	display:block;
+}
+
+.blog{
+	width:281px;
+	height:41px;
+ 	background-image:url("images/blog.png");
+  	background-size:100% 100%;	
+  	  	margin:10px 5px;
+  	  	display:block;
+  	
+}
+
+.kakaoTalk{
+	width:281px;
+	height:41px;
+ 	background-image:url("images/kakaotalk.png");
+  	background-size:100% 100%;	
+  	  	margin:10px 5px;
+  	  	display:block;
+  	
+}
+
+
+
+
+
+
+
+
+

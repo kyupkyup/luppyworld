@@ -1,0 +1,48 @@
+@charset "EUC-KR";
+
+.row{
+	width:100%;
+	margin:0 auto;
+}
+.view{
+	width:100%;
+}
+.volunteer-title{
+	
+}
+.volunteer-date{
+	
+}
+.volunteer-place{
+	
+}
+.volunteer-write-date{
+	
+}
+.volunteer-content{
+	text-align:left;
+}
+.volunteer-food{
+	
+}
+
+.volunteer-user{
+	
+	width:100%;
+}
+.userProfilePhoto{
+	width:50px;
+	height:50px;
+}
+.volunteer-userName{
+	
+}
+.volunteer-userMemberShip{
+	
+}
+.volunteer-userAttend{
+	
+}
+.volunteer-onesay{
+	
+}

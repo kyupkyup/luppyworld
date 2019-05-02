@@ -1,0 +1,27 @@
+@charset "EUC-KR";
+
+.row{
+	width:100%;
+	margin:0 auto;
+}
+
+
+.list{
+	width:100%;
+}
+
+.title-line{
+	text-align:center;
+	color:black;
+	font-size:16px;
+	
+}
+
+.date-line{
+	text-align:center;
+	font-color:black;
+}
+.name-line{
+	text-align:center;
+	text-color:black;
+}

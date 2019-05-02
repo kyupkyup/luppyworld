@@ -1,0 +1,19 @@
+#instaPics{
+    width: 1000px;
+    height:500px;
+    text-align: center;
+    margin:20px auto;
+	display:block;    
+}
+
+.insta-box{
+    width:25%;
+    height:50%;    
+    display: inline-block;
+}
+
+.insta-image{ 
+    width:100%;
+    height:100%;
+    
+}

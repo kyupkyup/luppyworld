@@ -1,0 +1,24 @@
+@charset "EUC-KR";
+
+.title{
+	margin:8px 5px;
+	color:#808080;
+	font-family:font-family: 'Do Hyeon', sans-serif;
+	font-size:25px;
+	font-weight:700;
+	float:left;
+}
+
+.table{
+	text-align : center;
+	border-collapse:separate;
+}
+.table-head{
+	border:2px solid #dddddd;
+	font-family: 'Jua', sans-serif;
+	font-size:16px;
+}
+.table-body{
+	border-bottom:1px solid #dddddd;
+	font-size:16px;	
+}

@@ -1,0 +1,169 @@
+@charset "EUC-KR";
+
+.container-all{
+    width:100%;
+    text-align:center;
+}
+
+.container-admin{
+  width:1200px;
+  margin:auto 10px;
+  display:inline-block;
+}
+
+.title{
+	margin:8px 5px;
+	color:#808080;
+	font-size:28px;
+	font-weight:999;
+	font-family: 'Do Hyeon', sans-serif;
+	float:left;
+}
+
+.userProfilePhoto{
+	width:50px;
+	height:50px;
+	font-family: 'Jua', sans-serif;
+	font-size:16px;
+}
+.userID{
+	max-width:80px;
+	text-align:center;
+	font-family: 'Jua', sans-serif;
+	font-size:16px;
+}
+.userName{
+	text-align:center;
+	max-width:80px;
+	font-family: 'Jua', sans-serif;
+	font-size:16px;
+	
+}
+.userPhoneNumber{
+	text-align:center;
+	font-family: 'Jua', sans-serif;
+	font-size:16px;
+	
+}
+.userAddress{
+	text-align:center;
+	min-width:150px;
+	max-width:300px;
+	font-family: 'Jua', sans-serif;
+	font-size:16px;
+	
+}
+.userGender{
+	text-align:center;
+	font-family: 'Jua', sans-serif;
+	font-size:16px;
+	
+}
+
+.userRoute{
+	text-align:center;
+	font-family: 'Jua', sans-serif;
+	font-size:16px;
+	
+}
+.userJob{
+	text-align:center;
+	font-family: 'Jua', sans-serif;
+	font-size:16px;
+	
+}
+.userAge{
+	text-align:center;
+	font-family: 'Jua', sans-serif;
+	font-size:16px;
+	
+}
+.userBirthday{
+	text-align:center;
+	font-family: 'Jua', sans-serif;
+	font-size:16px;
+	
+}
+.userMemberShip{
+	text-align:center;
+	font-family: 'Jua', sans-serif;
+	font-size:16px;
+	
+}
+.userAttend{
+	text-align:center;
+	font-family: 'Jua', sans-serif;
+	font-size:16px;
+	
+}
+
+.userProfilePhoto-1{
+	width:50px;
+	height:50px;
+}
+
+.userID-1 {
+	max-width:80px;
+	text-align:center;
+		font-family: 'Sunflower', sans-serif;
+		font-size:15px;
+	}
+	.userName-1 {
+		text-align:center;
+		max-width:80px;
+	font-family: 'Sunflower', sans-serif;
+	font-size:15px;
+	
+}
+.userPhoneNumber-1 {
+	text-align:center;
+	font-family: 'Sunflower', sans-serif;
+	font-size:15px;
+	
+}
+.userAddress-1 {
+	text-align:center;
+	min-width:150px;
+	max-width:300px;
+	font-family: 'Sunflower', sans-serif;
+	font-size:15px;
+	
+}
+.userGender-1 {
+	text-align:center;
+	font-family: 'Sunflower', sans-serif;
+	font-size:15px;
+	
+}
+.userJob-1 {
+	text-align:center;
+	font-family: 'Sunflower', sans-serif;
+	font-size:15px;
+	
+}
+.userAge-1 {
+	text-align:center;
+	font-family: 'Sunflower', sans-serif;
+	font-size:15px;
+	
+	
+}
+.userBirthday-1 {
+	text-align:center;
+	font-family: 'Sunflower', sans-serif;
+	font-size:15px;
+	
+}
+
+.userMemberShip-1 {
+	text-align:center;
+	font-family: 'Sunflower', sans-serif;
+	font-size:15px;
+	
+}
+.userAttend-1{
+	text-align:center;
+	font-family: 'Sunflower', sans-serif;
+	font-size:15px;
+	
+}

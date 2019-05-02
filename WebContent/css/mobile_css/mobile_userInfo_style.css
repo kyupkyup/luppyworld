@@ -1,0 +1,33 @@
+@charset "EUC-KR";
+
+.title{
+	font-size:18pt;
+	
+}
+
+.userInfo-title
+{
+	width:100%;
+	border-bottom:2px black solid;
+
+}
+
+.userInfo{
+	width:100%;
+	border-bottom:1px black solid;
+	text-align:center;
+}
+.info-title{
+	font-size:15pt;
+	font-weight:bold;
+	margin-top:5px;
+}
+
+.info{
+	font-size:13pt;
+	
+}
+
+.userInfo_btn{
+	margin:3px;
+}

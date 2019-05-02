@@ -1,0 +1,98 @@
+@charset "EUC-KR";
+/* @media only screen and (max-width: 500px){
+	.container-all{
+    width:100%;
+    text-align:center;
+    overflow-y: scroll;
+    background-image:url("images/no_mobile.png");
+    background-size:500px 100%;
+}
+	}
+	 */
+.container-all{
+    width:100%;
+    text-align:center;
+}
+.navbar{
+    width: 100%;
+    display: inline-block;
+    background-image:url("images/bar.png");
+    background-size:auto 208px;
+}
+.navbar-brand{
+	width:312px;
+	heigth:160px;
+	background-image:url("images/logo.png");
+	background-size:222px 50px;
+	margin:10px 15px 15px 15px;
+    background-repeat:no-repeat;
+
+}
+.container{
+    display: inline-block;
+    text-align: left;
+	width: 1000px;
+	max-width:1100px;
+    height: 100%;
+	background-color: white;
+} 	
+
+pre{
+	border:0px;
+	background-color:white;
+}
+
+.notice-button{
+	width:93px;
+	height:44px;
+	background-image:url("images/notice_button.png");
+	background-size:70px 33px;
+	background-repeat:no-repeat;
+	margin-top:23px;
+	margin-right:10px;
+}
+
+.introduction-button{
+	width:93px;
+	height:44px;
+	background-image:url("images/introduction_button.png");
+	background-size:70px 33px;
+	background-repeat:no-repeat;
+	margin-top:23px;
+	margin-right:10px;
+	
+}
+
+.volunteer-button{
+	width:112px;
+	height:30px;
+	background-image:url("images/volunteer_button.png");
+	background-size:112px 30px;
+	background-repeat:no-repeat;
+	margin-top:23px;
+	margin-right:15px;
+	
+}
+
+.login-button{
+	width:112px;
+	height:30px;	
+	background-image:url("images/login_button.png");
+	background-size:112px 30px;
+	background-repeat:no-repeat;
+	margin-top:23px;
+	margin-right:15px;
+	
+}
+
+.userInfo-button{
+	width:112px;
+	height:30px;	
+	background-image:url("images/userInfo_button.png");
+	background-size:112px 30px;
+	background-repeat:no-repeat;
+	margin-top:23px;
+	margin-right:15px;
+	
+}
+

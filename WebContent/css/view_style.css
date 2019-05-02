@@ -1,0 +1,101 @@
+@charset "EUC-KR";
+
+.reply-cover{
+	width:90%;
+	height:80px;
+	margin:10px auto;
+}
+
+.reply-content{
+	width:98%;
+	height:75px;
+	border:1px solid black;
+	font-family: 'Sunflower', sans-serif;
+	font-size:15px;
+}
+
+.reply-button{
+	width:100px;
+	height:75px;
+	float:left;
+	border:1px solid black;
+	font-family: 'Jua', sans-serif;
+	font-size:15px;
+}
+
+.replied-cover{
+	width:90%;
+	height:80px;
+	margin:10px auto;
+}
+
+.replied-name{
+	display:block;
+	width:100px;
+	height:30px;
+	float:left;
+	font-size:15px;
+}
+
+.replied-date{
+	display:block;
+	width:200px;
+	height:30px;
+	float:left;
+	font-size:15px;	
+}
+
+.replied-content{
+	width:90%;
+	height:80px;
+	text-align:left;
+	padding:10px;
+	vertical-align:middle;
+	font-size:15px;	
+}
+
+.image{
+	width:auto;
+	max-width:350px;
+	height:auto;
+	max-height:350px;
+}
+
+.title{
+	font-family: 'Do Hyeon', sans-serif;
+	font-size:20px;
+}
+
+.bulletin-view-title{
+	font-family: 'Jua', sans-serif;
+	font-size:16px;
+}
+
+.bulletin-view-user{
+	font-family: 'Jua', sans-serif;
+	font-size:16px;	
+}
+
+.bulletin-view-date{
+	font-family: 'Jua', sans-serif;
+	font-size:16px;	
+}
+
+.bulletin-view-title-1{
+	font-size:15px;	
+}
+
+.bulletin-view-user-1{
+	font-size:15px;		
+}
+
+.bulletin-view-date-1{
+	font-size:15px;		
+}
+
+.bulletin-view-content-1{
+	font-size:15px;		
+}
+
+
+

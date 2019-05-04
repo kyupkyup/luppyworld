@@ -182,8 +182,8 @@
 						<tr>
 							<td>
 								<select class="select-one" name = "bulletinAvailable" data-width="fit">
-									<option value = 1>자유 글</option>
 									<option value = 3>가입인사</option>
+									<option value = 1>자유 글</option>
 								</select>
 							</td>
 							

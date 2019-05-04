@@ -84,7 +84,7 @@
 			
 			
 		}
-		if(fileName==null || fileRealName ==null){
+		if(fileName==null || fileRealName ==null && bulletinAvailable==3){
 			PrintWriter script = response.getWriter();
 			script.println("<script>");
 			script.println("alert('사진을 넣어주세요.')");
@@ -165,6 +165,7 @@
 					if(userMemberShip==5){
 					int result1 = userDAO.introduceChangeState(userID);
 					if(result1==-1){	
+						
 						script.println("<script>");
 						script.println("alert('등업에 실패했습니다. 관리자에게 문의하세요.')");
 						script.println("history.back()");

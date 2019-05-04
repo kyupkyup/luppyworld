@@ -87,7 +87,7 @@
 			
 			
 		}
-		if(fileName==null || fileRealName ==null){
+		if(fileName==null || fileRealName ==null && bulletinAvailable==3){
 			PrintWriter script = response.getWriter();
 			script.println("<script>");
 			script.println("alert('사진을 넣어주세요.')");
